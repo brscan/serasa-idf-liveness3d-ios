@@ -18,7 +18,7 @@
 		</data>
 		<key>Frameworks/FaceTecSDK.framework/FaceTecSDK</key>
 		<data>
-		V83yT8EeYGdurX/TZOiLs990aFQ=
+		AijZkQhCVwOG+kgrjr7MaYxwp1I=
 		</data>
 		<key>Frameworks/FaceTecSDK.framework/GenericGuidanceContentLayout.nib</key>
 		<data>
@@ -181,53 +181,37 @@
 		<data>
 		8GHP1TOUMs+FMYrV872D99/JZQA=
 		</data>
+		<key>Headers/brscan_sdk_selfie_ios-Swift.h</key>
+		<data>
+		SnrgpsHMscAd/4Jn+cu4MF9XTlw=
+		</data>
 		<key>Headers/brscan_sdk_selfie_ios.h</key>
 		<data>
 		EbhfJQOZirWSaFpRxvKa4or8MRw=
 		</data>
-		<key>Headers/serasa_idf_liveness3d_ios-Swift.h</key>
-		<data>
-		M52yhkVvlzAmZMppZY1IEaarPfM=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		6FA2Y4OqL4iak9BO8yK5Tpe0fpw=
+		smltDstEsURjhuEYNHhUgrAWZh8=
+		</data>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		L1a3qlaIuJXTdmka87d0JmdH/iw=
+		</data>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		etz6vinjDNthdM1uC/6oZzQk0/g=
+		</data>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		nHFaaD0+7Z89yun5y2/Qjsg2fhM=
+		</data>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		a6Yd2HdKaM7r5mCJA4cqAyQrcMU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		qbkzx3S2xeuTBpdtKTDYj2CN70c=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		hFWcocQCXxdgnzd51j2aaA+PsLQ=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		hFWcocQCXxdgnzd51j2aaA+PsLQ=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		2MZiqvli4LhRXhXRvulrrERMv/A=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		0r6Hec+omArTJCA2fcdexMnBpm0=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		gRmmCdcktah1XhQ/Z15B67SovZY=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		2MZiqvli4LhRXhXRvulrrERMv/A=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		0r6Hec+omArTJCA2fcdexMnBpm0=
-		</data>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		gRmmCdcktah1XhQ/Z15B67SovZY=
+		sNeDi5/qb4vmNOsj3FiuHOjeK30=
 		</data>
 		<key>Roboto-Bold.ttf</key>
 		<data>
@@ -317,7 +301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/aA+uyY2GYMAVrRLY6DP04O8yqllujRfk/4T1iQdlrs=
+			QE+dY6TUnu2PUFndWee7Be2r3AaKl2vUJzceP1a6BQc=
 			</data>
 		</dict>
 		<key>Frameworks/FaceTecSDK.framework/GenericGuidanceContentLayout.nib</key>
@@ -595,6 +579,13 @@
 			kbq2dpNCCxoHIqVAZKsrsCWUNd5FvHAv386Je16/1q0=
 			</data>
 		</dict>
+		<key>Headers/brscan_sdk_selfie_ios-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JKjgfr/2zm/ajieQBOsRlVHbsXb5vb/csqwaYFMGDuc=
+			</data>
+		</dict>
 		<key>Headers/brscan_sdk_selfie_ios.h</key>
 		<dict>
 			<key>hash2</key>
@@ -602,74 +593,39 @@
 			GVHI2iBuxAC8I2JJ3n3fJWadtgtgnVvZrnGlSp7S0qc=
 			</data>
 		</dict>
-		<key>Headers/serasa_idf_liveness3d_ios-Swift.h</key>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bZreyV2xhChQoaEI3mau2U7NJJdHy60G2LAwjSEqDU8=
+			jXlLh2x0F4In6RJTeHrX9BQdCPvkpKhe7bkrYr0zTfA=
+			</data>
+		</dict>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X4FuBN/vw5Guf7twipxuigC6XeI1MMOE3JO+dXEtQ7s=
+			</data>
+		</dict>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bVdeaGpUj+tZDHeSHz1N7AJ+bBIgZH6kE21j5r+Gr8U=
+			</data>
+		</dict>
+		<key>Modules/brscan_sdk_selfie_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cVF/ocrO3kCPCnuEUokucA9vFKAjKhIymYtZkseTbGk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			We7hnrTYU9TvBt3F51PSc/Thg1ZLCZbd9NcdDEq+Nm4=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gtc5thpNJGAzkIRNmro6FgRdHQE0DdF/9BD4uM+NfBE=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gtc5thpNJGAzkIRNmro6FgRdHQE0DdF/9BD4uM+NfBE=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Lfz2yoX7ikAhIQuyXbYrHm33xgBfwEIewHmG5h8WIQ4=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			igvXLarX9EDH+q+0pw1ugXAmC73zmVPRh4gv1OCeLXQ=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E/jsylqJJFLRtAhJA0xxEF5FP88t3XjReKcFzMKWhuc=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Lfz2yoX7ikAhIQuyXbYrHm33xgBfwEIewHmG5h8WIQ4=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			igvXLarX9EDH+q+0pw1ugXAmC73zmVPRh4gv1OCeLXQ=
-			</data>
-		</dict>
-		<key>Modules/serasa_idf_liveness3d_ios.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E/jsylqJJFLRtAhJA0xxEF5FP88t3XjReKcFzMKWhuc=
+			5F1TKIGi2pLqfJvry0fJHLuUpaDjWaUUAQ8rVoT3SCY=
 			</data>
 		</dict>
 		<key>Roboto-Bold.ttf</key>
