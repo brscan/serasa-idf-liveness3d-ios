@@ -57,7 +57,7 @@ import _Concurrency
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CapturaSViewController : UIKit.UIViewController {
   @objc @_Concurrency.MainActor(unsafe) public var delegate: serasa_idf_liveness3d_ios.CapturaSViewControllerDelegate?
-  @objc @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, wizard: Swift.Bool, segurancaExtraRootCheck: Swift.Bool = false, segurancaExtraSslPinning: Swift.Bool = false, customizacaoTexto: serasa_idf_liveness3d_ios.ConfiguracaoTextoSelfie = ConfiguracaoTextoSelfie(), retornarErros: Swift.Bool = false, segurancaExtraEmulatorCheck: Swift.Bool = false)
+  @objc @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, wizard: Swift.Bool, segurancaExtraRootCheck: Swift.Bool = false, segurancaExtraEmulatorCheck: Swift.Bool = false)
   @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLoad()
   @objc deinit
 }
