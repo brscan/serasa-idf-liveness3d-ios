@@ -57,7 +57,7 @@ import _Concurrency
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CapturaSViewController : UIKit.UIViewController {
   @objc @_Concurrency.MainActor(unsafe) public var delegate: serasa_idf_liveness3d_ios.CapturaSViewControllerDelegate?
-  @objc @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, wizard: Swift.Bool, segurancaExtraRootCheck: Swift.Bool = false, segurancaExtraEmulatorCheck: Swift.Bool = false)
+  @objc @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, wizard: Swift.Bool, segurancaExtraRootCheck: Swift.Bool = false, segurancaExtraEmulatorCheck: Swift.Bool = false, tentativasDeCaptura: Swift.Int = 0)
   @objc @_Concurrency.MainActor(unsafe) override dynamic public func viewDidLoad()
   @objc deinit
 }
@@ -115,6 +115,15 @@ extension UIKit.UIColor {
     get
   }
   public var brscan_selfie_background_button_primary: UIKit.UIColor {
+    get
+  }
+  public var brscan_selfie_text_primary: UIKit.UIColor {
+    get
+  }
+  public var brscan_selfie_background_button_text_primary: UIKit.UIColor {
+    get
+  }
+  public var success: UIKit.UIColor {
     get
   }
 }
@@ -599,8 +608,10 @@ public protocol CapturarSelfieViewControllerDelegate {
     @_Concurrency.MainActor(unsafe) @objc get
   }
   @_Concurrency.MainActor(unsafe) public var delegate: serasa_idf_liveness3d_ios.CapturarSelfieViewControllerDelegate?
-  @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, wizard: Swift.Bool = false, segurancaExtraSslPinning: Swift.Bool, tipoRetorno: Swift.String = "base64", tokenTentativa: Swift.Int, retornarErros: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) required public init(chave: Swift.String, wizard: Swift.Bool = false, segurancaExtraSslPinning: Swift.Bool, tipoRetorno: Swift.String = "base64", tokenTentativa: Swift.Int, retornarErros: Swift.Bool, tentativasDeCaptura: Swift.Int)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) public func increment()
+  @_Concurrency.MainActor(unsafe) public func attemptExceeded() -> Swift.Bool
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)

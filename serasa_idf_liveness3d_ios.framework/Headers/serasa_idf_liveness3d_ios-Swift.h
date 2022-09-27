@@ -220,7 +220,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_CLASS("_TtC25serasa_idf_liveness3d_ios22CapturaSViewController")
 @interface CapturaSViewController : UIViewController
 @property (nonatomic, strong) id <CapturaSViewControllerDelegate> _Nullable delegate;
-- (nonnull instancetype)initWithChave:(NSString * _Nonnull)chave wizard:(BOOL)wizard segurancaExtraRootCheck:(BOOL)segurancaExtraRootCheck segurancaExtraEmulatorCheck:(BOOL)segurancaExtraEmulatorCheck OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithChave:(NSString * _Nonnull)chave wizard:(BOOL)wizard segurancaExtraRootCheck:(BOOL)segurancaExtraRootCheck segurancaExtraEmulatorCheck:(BOOL)segurancaExtraEmulatorCheck tentativasDeCaptura:(NSInteger)tentativasDeCaptura OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil SWIFT_UNAVAILABLE;
